@@ -65,7 +65,7 @@ body
     left: 40%;
     transform: translateX(-50%);
 
-    background-image: url("../img/plain scroll.jpg");
+    background-image: url("plain scroll.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50% 100%;
@@ -206,7 +206,7 @@ footer p a:hover
 {
     body
     {
-        background-image: url("../img/cropped login.png");
+        background-image: url("cropped login.png");
     }
     #login input[type="text"],
     #login input[type="password"]
