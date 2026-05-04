@@ -177,7 +177,7 @@ body
     height: 60%;
     padding: 10px;
 
-    background-image: url("../img/currently reading.png");
+    background-image: url("currently reading.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -194,7 +194,7 @@ body
     color: white;
     font-size: 15px;
 
-    background-image: url("../img/currently listening to.png");
+    background-image: url("currently listening to.png");
     background-repeat: no-repeat;
     background-size: 85% 100%;
     background-position: center;
