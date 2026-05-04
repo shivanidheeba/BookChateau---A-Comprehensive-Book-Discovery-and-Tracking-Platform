@@ -388,6 +388,12 @@ footer
     height: 80px;
     background-color: #ffd9aa;
     text-align: center;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 800px;
 }
 footer p
 {
